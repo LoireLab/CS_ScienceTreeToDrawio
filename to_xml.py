@@ -37,7 +37,7 @@ science_data.sort(key=lambda x: (generations[x["key"]], x.get("sortWeight", 0)))
 
 # Create the base XML structure for draw.io
 mxfile = Element('mxfile', host="app.diagrams.net", modified="2023-11-06T12:47:49.475Z", agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36", etag="1QcJdoTkEXw8NMiF-aaI", version="20.8.19", type="github")
-diagram = SubElement(mxfile, 'diagram', name="Страница 1", id="TRZrNrSoRNPHeesHGA9Z")
+diagram = SubElement(mxfile, 'diagram', name="Science Tree", id="TRZrNrSoRNPHeesHGA9Z")
 mxGraphModel = SubElement(diagram, 'mxGraphModel', dx="1434", dy="790", grid="1", gridSize="10", guides="1", tooltips="1", connect="1", arrows="1", fold="1", page="1", pageScale="1", pageWidth="827", pageHeight="1169", math="0", shadow="0")
 root = SubElement(mxGraphModel, 'root')
 
