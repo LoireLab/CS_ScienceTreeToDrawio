@@ -9,3 +9,5 @@ Usage:
 5. Choose the "Open from..." option and select your local PC. Then, upload the output.xml file.
 6. Your science tree will be displayed!
 Note: The current visualization might not be perfectly organized, so manual rearrangement might be needed for optimal presentation.
+
+You can support me here: https://ko-fi.com/loirelab
